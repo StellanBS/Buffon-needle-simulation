@@ -4,4 +4,4 @@ A visual Monte Carlo experiment for estimating π by simulating Buffon's classic
 
 ## Run
 ```bash
-python buffon_popout_montecarlo.py
+python buffon_montecarlo.py
